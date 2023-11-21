@@ -1,0 +1,28 @@
+
+/* input */
+
+.navbar input {
+ border: none;
+  border-radius: 20px;
+  padding: 1.2rem 1rem;
+  cursor: pointer;
+  width: 10rem;
+  height: 30px;
+  background-color: rgb(244, 240, 240);
+}
+
+.underline a {
+  text-decoration: underline;
+}
+
+footer hr {
+  color: rgb(42, 40, 40);
+  height: 1px;
+}
+
+
+@media (max-width: 800px) {
+  .navbar2 {
+    visibility: collapse;
+  }
+}
